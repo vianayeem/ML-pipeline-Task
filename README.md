@@ -35,7 +35,7 @@ data/
 notebooks/
     analysis.ipynb
 
-outputs/
+notebooks/outputs/
     Trade_Frequency_Sentiment.png
     Trade_Size_Sentiment.png
     Trade_Size_Distribution.png
