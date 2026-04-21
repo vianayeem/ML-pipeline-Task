@@ -184,13 +184,25 @@ Metrics studied:
 
 Generated charts include:
 
-- Trade_Frequency_Sentiment.png
-- Trade_Size_Sentiment.png
-- Trade_Size_Distribution.png
-- Trade_Frequency_vs_Market_Sentiment.png
-- Long_vs_Short_Behavior_Sentiment.png
-- Leverage_Distribution.png
+# Visualizations
 
+## Trade Frequency vs Sentiment
+![Trade Frequency Sentiment](notebooks/outputs/Trade_Frequency_Sentiment.png)
+
+## Trade Size vs Sentiment
+![Trade Size Sentiment](notebooks/outputs/Trade_Size_Sentiment.png)
+
+## Trade Size Distribution
+![Trade Size Distribution](notebooks/outputs/Trade_Size_Distribution.png)
+
+## Trade Frequency vs Market Sentiment
+![Trade Frequency vs Market Sentiment](notebooks/outputs/Trade_Frequency_vs_Market_Sentiment.png)
+
+## Long vs Short Behavior by Sentiment
+![Long vs Short Behavior](notebooks/outputs/Long_vs_Short_Behavior_Sentiment.png)
+
+## Leverage Distribution
+![Leverage Distribution](notebooks/outputs/Leverage_Distribution.png)
 These visualizations illustrate how trader behavior shifts across sentiment regimes.
 
 ---
