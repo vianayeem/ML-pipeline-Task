@@ -19,7 +19,8 @@ The objective of the analysis is to:
 - Segment traders into behavioral groups
 - Derive actionable strategy recommendations
 
-The analysis was conducted using Python in a Jupyter Notebook environment.
+The analysis was conducted using Python in a Jupyter Notebook
+environment.
 
 ---
 
@@ -32,10 +33,10 @@ data/
     fear_greed_index.csv
     trader_historical_data.csv
 
-notebooks/
+notebook/
     analysis.ipynb
 
-notebooks/outputs/
+notebook/outputs/
     Trade_Frequency_Sentiment.png
     Trade_Size_Sentiment.png
     Trade_Size_Distribution.png
@@ -187,22 +188,22 @@ Generated charts include:
 # Visualizations
 
 ## Trade Frequency vs Sentiment
-![Trade Frequency Sentiment](notebooks/outputs/Trade_Frequency_Sentiment.png)
+![Trade Frequency Sentiment](notebook/outputs/Trade_Frequency_Sentiment.png)
 
 ## Trade Size vs Sentiment
-![Trade Size Sentiment](notebooks/outputs/Trade_Size_Sentiment.png)
+![Trade Size Sentiment](notebook/outputs/Trade_Size_Sentiment.png)
 
 ## Trade Size Distribution
-![Trade Size Distribution](notebooks/outputs/Trade_Size_Distribution.png)
+![Trade Size Distribution](notebook/outputs/Trade_Size_Distribution.png)
 
 ## Trade Frequency vs Market Sentiment
-![Trade Frequency vs Market Sentiment](notebooks/outputs/Trade_Frequency_vs_Market_Sentiment.png)
+![Trade Frequency vs Market Sentiment](notebook/outputs/Trade_Frequency_vs_Market_Sentiment.png)
 
 ## Long vs Short Behavior by Sentiment
-![Long vs Short Behavior](notebooks/outputs/Long_vs_Short_Behavior_Sentiment.png)
+![Long vs Short Behavior](notebook/outputs/Long_vs_Short_Behavior_Sentiment.png)
 
 ## Leverage Distribution
-![Leverage Distribution](notebooks/outputs/Leverage_Distribution.png)
+![Leverage Distribution](notebook/outputs/Leverage_Distribution.png)
 These visualizations illustrate how trader behavior shifts across sentiment regimes.
 
 ---
